@@ -1,0 +1,67 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-image: linear-gradient(rgb(33, 120, 88),white,rgb(25, 91, 71));
+    height: 100vh;
+}
+.container{
+    width: 600px;
+    height: 500px;
+    background-image: linear-gradient(to right,rgb(37, 37, 77),rgb(45, 85, 45),rgb(29, 29, 70));
+    margin-left: 550px;
+    border-radius: 12px;
+    font-family: 'Times New Roman', Times, serif;
+}
+h3{
+    text-align: center;
+    font-size: 23px;
+    color: rgb(7, 7, 88);
+}
+
+input{
+    width:100%;
+    padding: 10px;
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+
+} 
+.gendercontainer{
+    text-align: center;
+    font-size: 18px;
+}
+::placeholder{
+    text-align: center;
+    font-style: italic;
+}
+.gender1{
+    width:10%;
+}
+label{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.btn{
+    text-align: center;
+    margin:10px;
+}
+button{
+    background-color: rgb(6, 85, 11);
+    padding: 5px;
+    width: 20%;
+    border-radius: 9px;
+    font-size: 18px;
+    font-style: italic;
+}
+
+
+
+
+
+
+
+
+
+
